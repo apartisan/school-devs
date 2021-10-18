@@ -1,0 +1,39 @@
+input {
+    width: 300px;
+    padding: 5px;
+    margin:5px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+input[type=text] {
+    color: blue;
+    border: 2px solid #f00f0f0;
+}
+input[type=submit] {
+    width:80px;
+    background-color: greenyellow;
+}
+
+textarea {
+    color: green;
+    width: 300px;
+}
+.formular{
+    padding:10 px;
+   
+    margin:0 auto;
+    text-align: center;
+}
+.container{
+    position:absolute;
+    top:15%;
+    left:25%; 
+    margin:0 auto;
+    width:600px;
+    height:400px;
+    text-align: center;
+    border:1px solid green;
+    vertical-align: middle;
+}
+
